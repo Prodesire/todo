@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+*.swp
+
+# Environment
+.env
+venv/
+.venv/
+env/
+.env.bak/
+env.bak/
+.pyenv/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Editor backup files
+*~
+.*.swp
+._*
+
+# Pytest cache
+.pytest_cache/
+pytestdebug.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Package tarball
+*.tar.gz
+*.tgz
+*.zip
+
+# Generated files
+.idea/
+.vscode/
+.DS_Store
+*.db
